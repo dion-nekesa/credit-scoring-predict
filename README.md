@@ -1,6 +1,6 @@
 
  # The German Credit Customer Segmentation
-### Unsupervised Machine Learning via K-Means Clustering
+### This project entails the concept of Unsupervised Machine Learning via K-Means Clustering
 
 This repository contains an end-to-end data science pipeline that transforms raw, unorganized credit applicant data into distinct behavioral customer personas. By shifting from standard individual metrics to multi-dimensional geometric clustering, this project uncovers hidden market segments to help financial institutions optimize underwriting limits and risk-adjusted product marketing.
 
